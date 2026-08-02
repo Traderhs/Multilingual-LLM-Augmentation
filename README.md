@@ -35,7 +35,7 @@ flowchart LR
 Only the releasable source code and this README are distributed through the public repository:
 
 ```text
-Conditional-Utility-of-LLM-Generated-Data-in-Multilingual-Binary-Classification/
+Conditional-Utility-of-LLM-Generated-Data-Augmentation-in-Multilingual-Binary-Classification/
 ├─ Sources/
 │  ├─ BinaryMatchedSizeExperiment/   # Generation, embeddings, paired experiments, policy freeze, and test analysis
 │  ├─ Common/                        # Shared LM Studio request and model-management utilities
@@ -61,7 +61,7 @@ The repository does not contain the complete `Data/` or `Results/` trees. Raw th
 The released scripts expect the complete local research tree beneath the repository root. The exact contents are produced incrementally by the preparation and experiment scripts.
 
 ```text
-Conditional-Utility-of-LLM-Generated-Data-in-Multilingual-Binary-Classification/
+Conditional-Utility-of-LLM-Generated-Data-Augmentation-in-Multilingual-Binary-Classification/
 ├─ Sources/
 ├─ README.md
 ├─ Data/                                      # Local-only; excluded from Git
